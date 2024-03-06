@@ -15,18 +15,18 @@ export default function Source() {
 
                         {/* LOGO 1 */}
                       <li>
-                        <a href="https://www.dropbox.com/scl/fo/gbh8v9g6a30zi8y425nzg/h/YZ?dl=0&subfolder_nav_tracking=1"><img src="https://i.imgur.com/GnFLXWg.png" alt="64" className="transition delay-30 duration-300 ease-in-out w-[120px] h-[120px] hover:scale-150"/></a>
+                        <a href="https://www.dropbox.com/scl/fo/749yzbwd3ph9ijmr32oni/h?rlkey=pgsux5fgwcsrj057e6cbflshv&dl=0"><img src="https://i.imgur.com/GnFLXWg.png" alt="64" className="transition delay-30 duration-300 ease-in-out w-[120px] h-[120px] hover:scale-150"/></a>
                       </li>
 
                         {/* LOGO 2 */}
                       <li>
-                      <a href="https://www.dropbox.com/scl/fo/gbh8v9g6a30zi8y425nzg/h/YZEA?dl=0&subfolder_nav_tracking=1"><img src="https://i.imgur.com/dAC9rtq.png" alt="64" className="transition delay-30 duration-300 ease-in-out w-[120px] h-[120px] hover:scale-150"/></a>
+                      <a href="https://www.dropbox.com/scl/fo/rsldatj9lmp7pd2iyaqiz/h?rlkey=x6nuie8mggx12v0ri0uix353j&dl=0"><img src="https://i.imgur.com/dAC9rtq.png" alt="64" className="transition delay-30 duration-300 ease-in-out w-[120px] h-[120px] hover:scale-150"/></a>
 
                       </li>
 
                         {/* LOGO 3 */}
                       <li>
-                        <a href="https://www.dropbox.com/scl/fo/gbh8v9g6a30zi8y425nzg/h/CITRA?dl=0&subfolder_nav_tracking=1"><img src="https://i.imgur.com/pmk40vL.png" alt="64" className="transition delay-30 duration-300 ease-in-out w-[120px] h-[120px] hover:scale-150"/></a>
+                        <a href="https://www.dropbox.com/scl/fo/rj3923bhy3o1p2riheq3i/h?rlkey=5kmfx731m62kjgj9z15hr2ahn&dl=0"><img src="https://i.imgur.com/pmk40vL.png" alt="64" className="transition delay-30 duration-300 ease-in-out w-[120px] h-[120px] hover:scale-150"/></a>
                       </li>
 
                     </ul>
