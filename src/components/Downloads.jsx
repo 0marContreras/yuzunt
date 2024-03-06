@@ -15,27 +15,27 @@ export default function Downloads() {
 
                         {/* LOGO 1 */}
                       <li>
-                        <a href="https://www.dropbox.com/scl/fo/g7ll8j2z088uhkq38mzis/h/YZ?dl=0&subfolder_nav_tracking=1"><img src="https://i.imgur.com/GnFLXWg.png" alt="64" className="transition delay-30 duration-300 ease-in-out w-[120px] h-[120px] hover:scale-150"/></a>
+                        <a href="https://www.dropbox.com/scl/fo/dpne1o2d8w3xqean5jdlk/h?rlkey=x3fz3ooklcsjzsgsi1k5ws751&dl=0"><img src="https://i.imgur.com/GnFLXWg.png" alt="64" className="transition delay-30 duration-300 ease-in-out w-[120px] h-[120px] hover:scale-150"/></a>
                       </li>
 
                         {/* LOGO 2 */}
                       <li>
-                      <a href="https://www.dropbox.com/scl/fo/g7ll8j2z088uhkq38mzis/h/YZEA/Windows?dl=0&subfolder_nav_tracking=1"><img src="https://i.imgur.com/dAC9rtq.png" alt="64" className="transition delay-30 duration-300 ease-in-out w-[120px] h-[120px] hover:scale-150"/></a>
+                      <a href="https://www.dropbox.com/scl/fo/8sswtaibjm9jh4z166926/h?rlkey=t87xspq0dkwbo796qatmns21s&dl=0"><img src="https://i.imgur.com/dAC9rtq.png" alt="64" className="transition delay-30 duration-300 ease-in-out w-[120px] h-[120px] hover:scale-150"/></a>
 
                       </li>
 
                         {/* LOGO 3 */}
                       <li>
-                        <a href="https://www.dropbox.com/scl/fo/g7ll8j2z088uhkq38mzis/h/YZEA/Linux?dl=0&subfolder_nav_tracking=1"><img src="https://i.imgur.com/N7vMgtC.png" alt="64" className="transition delay-30 duration-300 ease-in-out w-[120px] h-[120px] hover:scale-150"/></a>
+                        <a href="https://www.dropbox.com/scl/fo/ah54hm9cy2zxlu8zgzdr8/h?rlkey=ce3l4sd7rt32xiz3vxugqw1ho&dl=0"><img src="https://i.imgur.com/N7vMgtC.png" alt="64" className="transition delay-30 duration-300 ease-in-out w-[120px] h-[120px] hover:scale-150"/></a>
                       </li>
                           {/* LOGO 4 */}
                       <li>
-                        <a href="https://www.dropbox.com/scl/fo/g7ll8j2z088uhkq38mzis/h/YZDROID?dl=0&subfolder_nav_tracking=1"><img src="https://i.imgur.com/fxKu7FP.png" alt="64" className="transition delay-30 duration-300 ease-in-out w-[120px] h-[120px] hover:scale-150"/></a>
+                        <a href="https://www.dropbox.com/scl/fo/yqv3fpfbpadr62nlf59n9/h?rlkey=jivpih99iatlu9kqk270vi4k2&dl=0"><img src="https://i.imgur.com/fxKu7FP.png" alt="64" className="transition delay-30 duration-300 ease-in-out w-[120px] h-[120px] hover:scale-150"/></a>
                       </li>
                         
                           {/* LOGO 5 */}
                       <li>
-                        <a href="https://www.dropbox.com/scl/fo/g7ll8j2z088uhkq38mzis/h/64?dl=0&subfolder_nav_tracking=1"><img src="https://i.imgur.com/jBBpzF5.png" alt="64" className="transition delay-30 duration-300 ease-in-out w-[120px] h-[120px] hover:scale-150"/></a>
+                        <a href="https://www.dropbox.com/scl/fo/wk4ywtke0wobq4gmq1db0/h?rlkey=dni3emxtnrltdymezopwyhetb&dl=0"><img src="https://i.imgur.com/jBBpzF5.png" alt="64" className="transition delay-30 duration-300 ease-in-out w-[120px] h-[120px] hover:scale-150"/></a>
                       </li>
                     
                     </ul>
