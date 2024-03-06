@@ -13,13 +13,13 @@ export default function Home  (){
                   </div>
                   <div className="max-w-xl px-4 space-y-3 mt-6 sm:px-0 md:mt-0 lg:max-w-2xl">
                       <h3 className="text-red-600 font-semibold">
-                          Yuzun't
+                      {`Yuzun't`}
                       </h3>
                       <p className="text-white  text-3xl font-semibold sm:text-4xl">
                           Fuck it. All yuzu and citra emulators and source code, Also Mario 64 pc
                       </p>
                       <p className="mt-3 text-gray-400">
-                        Nintendo can't beat us. If you want to colaborate in this project send me an email: thanosnormal@gmai.com I'm looking for any kind of build and sorce code of these emulators.
+                      {`Nintendo can't beat us. If you want to colaborate in this project send me an email: thanosnormal@gmai.com I'm looking for any kind of build and sorce code of these emulators.`}
                       </p>
                   </div>
               </div>
